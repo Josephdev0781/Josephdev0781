@@ -35,10 +35,6 @@ Hello, I'm Joseph Mwariri
 | [**ml-models**](https://github.com/Josephdev0781/ml-models) | Machine Learning experiments and AI applications | Python, Scikit-learn |
 | [**fullstack-app**](https://github.com/Josephdev0781/fullstack-app) | MERN stack web app | MongoDB, Express, React, Node.js |
 
-*(Replace `yourusername` with your new GitHub handle)*
-
----
-
 ### 📊 GitHub Stats
 ![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josephdev0781&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephdev0781&layout=compact&theme=tokyonight)
@@ -55,8 +51,8 @@ Hello, I'm Joseph Mwariri
 
 ### 📫 Connect With Me
 - 📧 Email: **mwaririjoseph81@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/josephmwariri](https://linkedin.com/in/josephmwariri) *(optional — can add later)*  
-- 🧠 GitHub: [github.com/Josephdev0781](https://github.com/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/josephmwariri](https://linkedin.com/in/josephmwariri)   
+-  GitHub:[github.com/Josephdev0781](https://github.com/yourusername)
 
 ---
 
