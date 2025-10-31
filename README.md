@@ -14,6 +14,7 @@ Hello, I'm Joseph Mwariri
 **Completion Date:** 31 Oct 2025  
 
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Introduction_to_Cybersecurity_certificate_mwaririjoseph81-gmail-com_3f894078-c4db-438a-825f-a552194406f2.pdf)
+[![Cisco Badge](https://img.shields.io/badge/Cisco%20Badge-Verify%20on%20Credly-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/040eb4b3-1e12-49a3-af64-10f2b9418c80)
 
 </div>
 
