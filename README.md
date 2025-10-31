@@ -5,6 +5,20 @@ Hello, I'm Joseph Mwariri
 🌐 Exploring **Full-Stack Development**, **Machine Learning**, and **Ethical Hacking** across **Kali Linux** and **Windows** environments.
 
 ---
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+### 🛡️ Cisco Introduction to Cybersecurity  
+**Issued by:** Cisco Networking Academy  
+**Completion Date:** 31 Oct 2025  
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Introduction_to_Cybersecurity_certificate_mwaririjoseph81-gmail-com_3f894078-c4db-438a-825f-a552194406f2.pdf)
+
+</div>
+
+
+---
 
 ### 🚀 Current Focus
 - Mastering **Python** and **JavaScript** for automation and AI projects  
